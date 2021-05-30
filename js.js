@@ -1,4 +1,4 @@
-fuction addItem(){
+function addItem(){
 ver newItem = document.getElementById('items').value;
 // Create a new element and store it in a variable.
 var newEl = document.createElement('li');
